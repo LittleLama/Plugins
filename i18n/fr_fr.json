@@ -60,12 +60,15 @@
             },
             "string": {
                 "contains": "Contient",
+                "notContains": "Ne contient pas",
                 "empty": "Vide",
                 "endsWith": "Se termine par",
+                "notEndsWith": "Ne terminer pas par",
                 "equals": "Egal à",
                 "not": "Différent de",
                 "notEmpty": "Non vide",
-                "startsWith": "Commence par"
+                "startsWith": "Commence par",
+                "notStartsWith": "Ne commence pas par"
             },
             "array": {
                 "equals": "Egal à",
